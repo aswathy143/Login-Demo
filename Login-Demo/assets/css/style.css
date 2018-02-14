@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+#login-form {
+	margin:5% auto;
+	max-width:500px;
+}
+/* home page */
+#wrapper{
+	padding-top:50px;
+}
+body.loginpage{
+background-image:url(../images/registration.jpg);
+background-size: cover;
+background-color:#d49e05;
+	background-repeat: no-repeat;
+}
+body.homeimage{
+background-image:url(../images/free-professional-website-backgrounds_1416630.jpg);
+
+}
+.loginwrapper form {
+    float: left;
+    width: 100%;
+}
+#login-form .col-md-12 {
+	
+	padding: 0 50px;
+	border-radius: 0 0 6px 6px;
+	margin-top: 13px;
+	color: #fff;
+}
+.logo {
+	float: left;
+	width: 100%;
+	text-align: center;
+	margin-top: 3%;
+	padding: 10px 0;
+}
+.leftpanel {
+	float: left;
+	width: 50%;
+	padding: 9% 0;
+}
+.rightpanel {
+	float: left;
+	width: 50%;
+}
+.successclass {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 50px 0;
+}
+.loginwrapper {
+	float: left;
+	width: 100%;
+	box-shadow: 0 2px 5px #818181;
+	background-color: #fff;
+	border-radius: 6px;
+}
+.loginwrapper .leftpanel h2 {
+	float: left;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+}
+.input-group .form-control {
+	padding: 0;
+	height: 35px;
+}
+.innerlogo {
+	float: left;
+	width: 14%;
+	padding: 14px 0;
+}
+.innerlogo img {
+	width: 100%;
+}
+button[type="submit"] {
+	padding: 12px;
+}
+.loginwrapper h2 {
+	float: left;
+	width: 100%;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 400;
+}
+.form-group.signupclass {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.signupclass a {
+	color: #111;
+	border-radius: 3px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.btn-primary {
+	color: #fff;
+	background-color: #632b90;
+	border-color: #632b90;
+	text-transform: uppercase;
+}
+.btn-primary:hover {
+	color: #fff;
+	background-color: #660000;
+	border-color: #660000;
+	text-transform: uppercase;
+}
+hr {
+	border-top: 1px solid #7024a9;
+}
+.form-control {
+	border: 1px solid #fff;
+}
+.input-group-addon {
+	background-color: #fff;
+	border: 1px solid #fff;
+}
+.form-group {
+	margin-bottom: 10px;
+}
+.text-danger {
+	color: #fff;
+	font-size: 12px;
+}
+a {
+    color: #6600CC;
+    text-decoration: none;
+}
+ a:hover{
+ color:#660033;
+ }
+ h1,h3{
+ color:#FFFFFF;
+ }
